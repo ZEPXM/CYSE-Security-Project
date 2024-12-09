@@ -1,0 +1,12 @@
+2024-12-09 02:05:02.976855: Logging started.
+2024-12-09 02:05:02.976878: Attempting to send test email.
+2024-12-09 02:05:03.351258: Ran into authentication error: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials af79cd13be357-7b6b5a9e60bsm412839885a.104 - gsmtp')
+2024-12-09 02:22:30.350197: Logging started.
+2024-12-09 02:22:30.350211: Attempting to send test email.
+2024-12-09 02:22:30.911824: Test email succeeded.
+2024-12-09 02:22:30.911868: Monitoring starting.
+2024-12-09 02:23:05.450190: Logging started.
+2024-12-09 02:23:05.450204: Attempting to send test email.
+2024-12-09 02:23:05.943465: Test email succeeded.
+2024-12-09 02:23:05.943513: Monitoring starting.
+2024-12-09 02:24:07.351653: Monitoring, logging ended.
