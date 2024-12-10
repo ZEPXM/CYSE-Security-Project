@@ -23,11 +23,11 @@ After these steps, you should tweak the manual values (how long a program should
 
 You should also delete the example logs in /results, as some of them would be appended to on future program runs.
 
-It's also important to note that some of the scripts are OS-dependent (expanded on further in /documentation).
+It's also important to note that some of the scripts are OS-dependent. They have only been tested on Ubuntu 24.04.1 LTS running the Windows Subsystem for Linux on Windows 10.
 
 ## Usage
 
-Assuming you're in the root directory 
+Assuming you're in the root directory of the repository, run
 
 ```
 python3 ./scripts/<insert script>.py
