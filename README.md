@@ -33,13 +33,6 @@ Assuming you're in the root directory
 python3 ./scripts/<insert script>.py
 ```
 
-If you want to run this without a terminal in the background
-
-```
-mv ./scripts/<insert script>.py ./scripts/<insert script>.pyw # one time command
-python3 ./scripts/<insert script>.pyw
-```
-
 You can combine this with systemd timers, crontab, or another task scheduler to run a script in the background periodically.
 
 ## Team Members
